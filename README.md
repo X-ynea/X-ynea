@@ -1,7 +1,7 @@
 <h1> Hi there 👋 I'm X-ynea ! </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&pause=1000&color=#f03f87&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Always+learning+new+things;Open+for+job+opportunities" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&pause=1000&color=f03f87&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Always+learning+new+things;Open+for+job+opportunities" alt="Typing SVG" /></a>
 </p>
 
 
