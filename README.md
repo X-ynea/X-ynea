@@ -1,4 +1,4 @@
-<h2 style="font-size:40px;" align="center"> Hi there 👋 I'm X-ynea ! </h2>
+<p style="font-size:40px;" align="center"> Hi there 👋 I'm X-ynea ! </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Always+learning+new+things;Open+for+job+opportunities" alt="Typing SVG" /></a>
