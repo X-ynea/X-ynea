@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋 I'm X-ynea !
 
-<!--
-**X-ynea/X-ynea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Always+learning+new+things;Open+for+job+opportunities" alt="Typing SVG" /></a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <h2>You can reach me by:</h2>
+    <p>
+      <a href="https://www.linkedin.com/in/sabrina-lavergne/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="xynea_linkedin" height="30">
+      </a>
+      <a href="mailto:sabr.lavergne@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="xynea_mail" height="30">
+      </a>
+      <a href="[mailto:sabr.lavergne@gmail.com](https://www.canva.com/design/DAF1S5PpB3E/D0G72Xb2IJGRPEbHVR3qzA/view?utm_content=DAF1S5PpB3E&utm_campaign=designshare&utm_medium=link&utm_source=editor)" target="_blank">
+        <img src="https://img.shields.io/badge/just%20the%20message-8A2BE2" alt="xynea_resume" height="30">
+      </a>
+    </p>
+  </div>
