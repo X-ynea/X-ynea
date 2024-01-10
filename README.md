@@ -21,7 +21,8 @@
       </a>
   </p>
 </div>
-
+</br>
+</br>
 <div align="center">
     <h2>My programming skills:</h2>
     <p>
