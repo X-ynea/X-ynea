@@ -1,7 +1,7 @@
 <h1> Hi there 👋 I'm X-ynea ! </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Always+learning+new+things;Open+for+job+opportunities" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&pause=1000&color=purple&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Always+learning+new+things;Open+for+job+opportunities" alt="Typing SVG" /></a>
 </p>
 
 
@@ -44,7 +44,7 @@
 
 <h2> Here's some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
-<div align="center">
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
-</div>
+
 
