@@ -14,8 +14,8 @@
       <a href="mailto:sabr.lavergne@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="xynea_mail" height="30">
       </a>
-      <a href="[mailto:sabr.lavergne@gmail.com](https://www.canva.com/design/DAF1S5PpB3E/D0G72Xb2IJGRPEbHVR3qzA/view?utm_content=DAF1S5PpB3E&utm_campaign=designshare&utm_medium=link&utm_source=editor)" target="_blank">
-        <img src="https://img.shields.io/badge/just%20the%20message-8A2BE2" alt="xynea_resume" height="30">
+      <a href="https://www.canva.com/design/DAF1S5PpB3E/D0G72Xb2IJGRPEbHVR3qzA/view?utm_content=DAF1S5PpB3E&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">
+        <img src="https://img.shields.io/badge/My%20resume-8A2BE2" alt="xynea_resume" height="30">
       </a>
     </p>
   </div>
