@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&pause=1000&color=f03f87&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Always+learning+new+things;Open+for+job+opportunities" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
+<p align="justify">
   Young student passionate about computer science, software, and web development. In between lines of code, I enjoy exploring original ideas for my role-playing games and my book. Join me on this adventure where creativity meets technology! 🚀✨
 </p>
 
